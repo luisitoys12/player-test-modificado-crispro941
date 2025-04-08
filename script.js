@@ -4,7 +4,7 @@ const RADIO_NAME = 'estacionkusfm';
 const URL_STREAMING = 'https://113.30.149.133/listen/estacionkusfm/radio.mp3';
 
 //API URL Azuracast Now Playing
-const API_URL = 'http://113.30.149.133/api/nowplaying/2';
+const API_URL = 'https://113.30.149.133/api/nowplaying/2';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "2e4317c4fc225989:cab0a9b66d05c81a3fe1b61236521fe6";
