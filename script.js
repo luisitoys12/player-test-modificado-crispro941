@@ -494,7 +494,7 @@ function updateHistoryUI() {
 // Ejemplo de función para obtener datos de una API
 async function fetchSongData() {
     try {
-        const response = await fetch('URL_DE_TU_API');
+        const response = await fetch('http://113.30.149.133/api/nowplaying/2');
         const data = await response.json();
         updateSongInfo(data.title, data.artist);
     } catch (error) {
