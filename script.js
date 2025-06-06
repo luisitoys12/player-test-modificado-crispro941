@@ -7,7 +7,7 @@ const URL_STREAMING = 'https://radio.estacionkusmedios.com/listen/estacionkusfm/
 const API_URL = 'https://radio.estacionkusmedios.com/api/nowplaying/2';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
-const API_KEY = "2e4317c4fc225989:cab0a9b66d05c81a3fe1b61236521fe6";
+const API_KEY = "f0b1e801793620d1:6081432c35c06cbe47285159dc68827d";
 
 // Variable to control history display: true = display / false = hides
 let showHistory = true; 
